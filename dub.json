@@ -1,0 +1,7 @@
+{
+	"name": "exec ffmpeg",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, root",
+	"authors": ["donglei"],
+    "targetType": "executable"
+}
