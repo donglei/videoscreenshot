@@ -1,12 +1,8 @@
 import std.stdio;
 import std.format;
+import std.process;
 
 void main()
-{
-	snapshot();
-}
-import std.process;
-void snapshot()
 {
 	auto start = 0;
 	auto input_file="myvideo.mp4";
